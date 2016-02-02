@@ -1,0 +1,31 @@
+UK Grid Reference Widget
+
+This simple widget displays a ten figure UK Ordnance Survey Grid Reference using the same algorithm as the UK Grid Reference data field.  
+https://apps.garmin.com/en-GB/apps/2f30fe76-c14a-46e9-a606-76ced27dd776
+
+It is intended to be used for old-school hiking with paper maps when you want to quickly check your current location without the battery drain of running the GPS continuously.
+
+The widget displays the current location and the GPS signal strength.  
+
+The location is displayed using a large font which makes it very easy to read.  
+
+For more information about the meaning of the GPS Accuracy see this forum post: https://forums.garmin.com/archive/index.php/t-167917.html
+
+Note: The widget is primarily intended to display an OS grid ref which only applies to locations in the UK. If you are outside the UK it will display the location as latitude and longitude.
+
+For more information about grid references see: https://www.ordnancesurvey.co.uk/support/the-national-grid.html and https://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid
+
+If you have any feedback on this app please post it to this forum thread: https://forums.garmin.com/showthread.php?305827-DataField-UK-Grid-Reference
+
+
+Version history:
+
+v1.0 - Initial release 
+
+
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+"C:\Program Files\Java\jre1.8.0_51\bin\java" -Dfile.encoding=UTF-8 -Dapple.awt.UIElement=true -classpath "C:\Program Files\Java\jre1.8.0_51\lib\tools.jar;D:\garminSDK\bin\monkeybrains.jar;" com.garmin.monkeybrains.Monkeybrains -e -a D:\garminSDK\bin\api.db -i D:\garminSDK\bin\api.debug.xml -o C:\Users\mark\Dropbox\coding\ActivityClassicv2.iq -z C:\Users\mark\Dropbox\coding\connectiq\ActivityClassic\resources\resources.xml;C:\Users\mark\Dropbox\coding\connectiq\ActivityClassic\resources-d2bravo\resources.xml;C:\Users\mark\Dropbox\coding\connectiq\ActivityClassic\resources-fenix3\resources.xml -m C:\Users\mark\Dropbox\coding\connectiq\ActivityClassic\manifest.xml -u D:\garminSDK\bin\devices.xml -p D:\garminSDK\bin\projectInfo.xml C:\Users\mark\Dropbox\coding\connectiq\ActivityClassic\source\ActivityClassicView.mc C:\Users\mark\Dropbox\coding\connectiq\ActivityClassic\source\ActivityClassicApp.mc
