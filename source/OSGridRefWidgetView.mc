@@ -21,7 +21,7 @@ class OSGridRefWidgetView extends Ui.View
     //! Constructor
     function initialize()
     {
-        gridref = new OsGridRefUtils(null, null, 10 );
+        gridref = new UkGridRefUtils(null, null, 10 );
         //! Register an interest in location update events
         Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onLocation));
 
@@ -112,11 +112,11 @@ class OSGridRefWidgetView extends Ui.View
             var degrees = info.position.toDegrees();
             if (degrees != null and degrees[0] != null and  degrees.size() == 2)
             {
-              location =  new OsGridRefUtils(degrees[0], degrees[1], precision );
+              location =  new UkGridRefUtils(degrees[0], degrees[1], precision );
             }
           }
         if (location == null) {
-          location = new OsGridRefUtils(null, null, precision );
+          location = new UkGridRefUtils(null, null, precision );
         }
        return location;
     }

@@ -1,193 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?><debugInfo>
 <pcToLineNum>
-<entry filename="OsGridRefUtils.mc" lineNum="24" pc="268435458" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="25" pc="268435475" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="27" pc="268435479" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="28" pc="268435498" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="29" pc="268435517" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="30" pc="268435527" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="31" pc="268435550" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="32" pc="268435564" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="33" pc="268435592" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="34" pc="268435637" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="35" pc="268435653" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="36" pc="268435669" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="37" pc="268435685" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="40" pc="268435704" symbol="initialize"/>
-<entry filename="OsGridRefUtils.mc" lineNum="45" pc="268435723" symbol="toString"/>
-<entry filename="OsGridRefUtils.mc" lineNum="10" pc="268440527" symbol="&lt;init&gt;"/>
-<entry filename="OsGridRefUtils.mc" lineNum="17" pc="268440537" symbol="&lt;init&gt;"/>
-<entry filename="OsGridRefUtils.mc" lineNum="18" pc="268440876" symbol="&lt;init&gt;"/>
-<entry filename="OsGridRefUtils.mc" lineNum="19" pc="268440902" symbol="&lt;init&gt;"/>
-<entry filename="OsGridRefUtils.mc" lineNum="52" pc="268435753" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="53" pc="268435763" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="54" pc="268435770" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="58" pc="268435777" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="60" pc="268435813" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="61" pc="268435843" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="62" pc="268435873" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="63" pc="268435880" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="64" pc="268435891" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="65" pc="268435902" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="67" pc="268435912" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="71" pc="268435933" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="72" pc="268435944" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="74" pc="268435954" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="77" pc="268435964" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="80" pc="268435971" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="81" pc="268435978" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="83" pc="268436009" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="85" pc="268436046" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="86" pc="268436068" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="87" pc="268436079" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="88" pc="268436098" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="92" pc="268436120" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="93" pc="268436142" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="94" pc="268436166" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="96" pc="268436190" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="97" pc="268436194" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="100" pc="268436204" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="104" pc="268436211" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="105" pc="268436219" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="106" pc="268436229" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="107" pc="268436236" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="109" pc="268436246" symbol="toGridRef"/>
-<entry filename="OsGridRefUtils.mc" lineNum="115" pc="268436296" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="116" pc="268436303" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="117" pc="268436310" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="118" pc="268436317" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="119" pc="268436324" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="120" pc="268436337" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="122" pc="268436350" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="124" pc="268436375" symbol="WSG84_to_OSGB36"/>
-<entry filename="OsGridRefUtils.mc" lineNum="130" pc="268436381" symbol="isValidUKLocation"/>
-<entry filename="OsGridRefUtils.mc" lineNum="131" pc="268436476" symbol="isValidUKLocation"/>
-<entry filename="OsGridRefUtils.mc" lineNum="134" pc="268436482" symbol="isValidUKLocation"/>
-<entry filename="OsGridRefUtils.mc" lineNum="142" pc="268436488" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="143" pc="268436501" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="144" pc="268436508" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="145" pc="268436521" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="146" pc="268436534" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="147" pc="268436547" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="148" pc="268436560" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="149" pc="268436567" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="152" pc="268436574" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="153" pc="268436584" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="154" pc="268436648" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="155" pc="268436691" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="156" pc="268436734" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="158" pc="268436768" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="159" pc="268436787" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="160" pc="268436806" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="161" pc="268436825" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="162" pc="268436850" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="163" pc="268436875" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="165" pc="268436912" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="166" pc="268436934" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="167" pc="268436962" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="168" pc="268436993" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="169" pc="268437057" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="170" pc="268437064" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="171" pc="268437071" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="173" pc="268437082" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="174" pc="268437128" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="175" pc="268437146" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="177" pc="268437153" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="178" pc="268437178" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="179" pc="268437191" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="181" pc="268437204" symbol="transform_datum"/>
-<entry filename="OsGridRefUtils.mc" lineNum="188" pc="268437234" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="189" pc="268437244" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="191" pc="268437254" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="192" pc="268437267" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="193" pc="268437280" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="194" pc="268437287" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="195" pc="268437294" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="196" pc="268437301" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="197" pc="268437314" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="198" pc="268437321" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="199" pc="268437328" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="200" pc="268437341" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="201" pc="268437348" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="202" pc="268437355" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="204" pc="268437362" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="205" pc="268437399" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="206" pc="268437430" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="207" pc="268437455" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="208" pc="268437468" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="209" pc="268437475" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="210" pc="268437497" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="211" pc="268437536" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="212" pc="268437573" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="213" pc="268437595" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="214" pc="268437634" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="215" pc="268437673" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="216" pc="268437725" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="218" pc="268437798" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="219" pc="268437811" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="220" pc="268437832" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="221" pc="268437839" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="222" pc="268437885" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="223" pc="268438004" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="224" pc="268438053" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="226" pc="268438129" symbol="OSBG36_latlon_to_numeric_gridref"/>
-<entry filename="OsGridRefUtils.mc" lineNum="232" pc="268438159" symbol="Marc"/>
-<entry filename="OsGridRefUtils.mc" lineNum="236" pc="268438469" symbol="Marc"/>
-<entry filename="OsGridRefUtils.mc" lineNum="241" pc="268438475" symbol="floor"/>
-<entry filename="OsGridRefUtils.mc" lineNum="246" pc="268438490" symbol="abs"/>
-<entry filename="OSGridRefWidgetApp.mc" lineNum="14" pc="268438518" symbol="onStart"/>
-<entry filename="OSGridRefWidgetApp.mc" lineNum="19" pc="268438524" symbol="getInitialView"/>
-<entry filename="OSGridRefWidgetApp.mc" lineNum="24" pc="268438564" symbol="onStop"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="24" pc="268438571" symbol="initialize"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="26" pc="268438608" symbol="initialize"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="33" pc="268438655" symbol="onLocation"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="34" pc="268438681" symbol="onLocation"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="35" pc="268438702" symbol="onLocation"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="41" pc="268438721" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="42" pc="268438740" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="43" pc="268438776" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="45" pc="268438788" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="47" pc="268438795" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="48" pc="268438831" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="49" pc="268438896" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="50" pc="268438967" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="52" pc="268439003" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="53" pc="268439023" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="54" pc="268439060" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="55" pc="268439150" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="56" pc="268439249" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="58" pc="268439315" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="59" pc="268439364" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="60" pc="268439454" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="61" pc="268439544" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="64" pc="268439613" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="65" pc="268439703" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="66" pc="268439808" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="70" pc="268439889" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="71" pc="268439925" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="72" pc="268439972" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="73" pc="268440019" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="74" pc="268440055" symbol="onUpdate"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="81" pc="268440127" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="83" pc="268440134" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="84" pc="268440145" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="85" pc="268440162" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="88" pc="268440189" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="91" pc="268440216" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="94" pc="268440243" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="97" pc="268440270" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="100" pc="268440280" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="103" pc="268440302" symbol="render_accuracy_screen"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="109" pc="268440314" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="110" pc="268440317" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="112" pc="268440334" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="113" pc="268440353" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="115" pc="268440399" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="118" pc="268440447" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="119" pc="268440454" symbol="create_gridref_util"/>
-<entry filename="OSGridRefWidgetView.mc" lineNum="121" pc="268440485" symbol="create_gridref_util"/>
-<entry filename="Rez" lineNum="5" pc="268440961" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="10" pc="268440948" symbol="&lt;init&gt;"/>
+<entry filename="OSGridRefWidgetApp.mc" lineNum="14" pc="268435458" symbol="onStart"/>
+<entry filename="OSGridRefWidgetApp.mc" lineNum="19" pc="268435464" symbol="getInitialView"/>
+<entry filename="OSGridRefWidgetApp.mc" lineNum="24" pc="268435504" symbol="onStop"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="24" pc="268435511" symbol="initialize"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="26" pc="268435548" symbol="initialize"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="33" pc="268435595" symbol="onLocation"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="34" pc="268435621" symbol="onLocation"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="35" pc="268435642" symbol="onLocation"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="41" pc="268435661" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="42" pc="268435680" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="43" pc="268435716" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="45" pc="268435728" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="47" pc="268435735" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="48" pc="268435771" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="49" pc="268435836" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="50" pc="268435907" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="52" pc="268435943" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="53" pc="268435963" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="54" pc="268436000" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="55" pc="268436090" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="56" pc="268436189" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="58" pc="268436255" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="59" pc="268436304" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="60" pc="268436394" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="61" pc="268436484" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="64" pc="268436553" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="65" pc="268436643" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="66" pc="268436748" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="70" pc="268436829" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="71" pc="268436865" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="72" pc="268436912" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="73" pc="268436959" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="74" pc="268436995" symbol="onUpdate"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="81" pc="268437067" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="83" pc="268437074" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="84" pc="268437085" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="85" pc="268437102" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="88" pc="268437129" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="91" pc="268437156" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="94" pc="268437183" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="97" pc="268437210" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="100" pc="268437220" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="103" pc="268437242" symbol="render_accuracy_screen"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="109" pc="268437254" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="110" pc="268437257" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="112" pc="268437274" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="113" pc="268437293" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="115" pc="268437339" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="118" pc="268437387" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="119" pc="268437394" symbol="create_gridref_util"/>
+<entry filename="OSGridRefWidgetView.mc" lineNum="121" pc="268437425" symbol="create_gridref_util"/>
+<entry filename="UkGridRefUtils.mc" lineNum="20" pc="268437431" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="21" pc="268437448" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="23" pc="268437452" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="24" pc="268437471" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="25" pc="268437490" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="27" pc="268437529" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="28" pc="268437559" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="30" pc="268437569" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="33" pc="268437579" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="34" pc="268437674" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="39" pc="268437687" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="40" pc="268437697" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="41" pc="268437725" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="43" pc="268437762" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="49" pc="268437775" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="50" pc="268437820" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="51" pc="268437836" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="52" pc="268437852" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="53" pc="268437868" symbol="initialize"/>
+<entry filename="UkGridRefUtils.mc" lineNum="59" pc="268437887" symbol="getGR"/>
+<entry filename="UkGridRefUtils.mc" lineNum="66" pc="268437961" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="67" pc="268437968" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="68" pc="268437975" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="72" pc="268437982" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="74" pc="268438018" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="75" pc="268438048" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="76" pc="268438078" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="77" pc="268438085" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="78" pc="268438096" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="79" pc="268438107" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="81" pc="268438117" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="85" pc="268438138" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="86" pc="268438149" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="88" pc="268438159" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="91" pc="268438169" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="94" pc="268438176" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="95" pc="268438183" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="97" pc="268438214" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="99" pc="268438251" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="100" pc="268438273" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="101" pc="268438295" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="102" pc="268438302" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="104" pc="268438313" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="108" pc="268438334" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="110" pc="268438344" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="111" pc="268438371" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="112" pc="268438398" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="113" pc="268438405" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="116" pc="268438412" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="120" pc="268438419" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="121" pc="268438427" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="122" pc="268438434" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="123" pc="268438441" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="125" pc="268438451" symbol="toGridRef"/>
+<entry filename="UkGridRefUtils.mc" lineNum="131" pc="268438501" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="132" pc="268438508" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="133" pc="268438515" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="134" pc="268438522" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="135" pc="268438529" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="136" pc="268438542" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="138" pc="268438555" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="140" pc="268438580" symbol="WSG84_to_OSGB36"/>
+<entry filename="UkGridRefUtils.mc" lineNum="146" pc="268438586" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="147" pc="268438599" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="148" pc="268438606" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="149" pc="268438619" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="150" pc="268438632" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="151" pc="268438645" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="152" pc="268438658" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="153" pc="268438665" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="156" pc="268438672" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="157" pc="268438682" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="158" pc="268438746" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="159" pc="268438789" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="160" pc="268438832" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="162" pc="268438866" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="163" pc="268438885" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="164" pc="268438904" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="165" pc="268438923" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="166" pc="268438948" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="167" pc="268438973" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="169" pc="268439010" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="170" pc="268439032" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="171" pc="268439060" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="172" pc="268439091" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="173" pc="268439155" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="174" pc="268439162" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="175" pc="268439169" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="177" pc="268439180" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="178" pc="268439226" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="179" pc="268439244" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="181" pc="268439251" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="182" pc="268439276" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="183" pc="268439289" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="185" pc="268439302" symbol="transform_datum"/>
+<entry filename="UkGridRefUtils.mc" lineNum="194" pc="268439332" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="195" pc="268439342" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="197" pc="268439352" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="198" pc="268439365" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="199" pc="268439378" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="200" pc="268439385" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="201" pc="268439392" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="202" pc="268439399" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="203" pc="268439412" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="204" pc="268439419" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="205" pc="268439426" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="206" pc="268439439" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="207" pc="268439446" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="208" pc="268439453" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="210" pc="268439460" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="211" pc="268439497" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="212" pc="268439528" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="213" pc="268439553" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="214" pc="268439566" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="215" pc="268439573" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="216" pc="268439595" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="217" pc="268439634" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="218" pc="268439671" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="219" pc="268439693" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="220" pc="268439732" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="221" pc="268439771" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="222" pc="268439823" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="224" pc="268439896" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="225" pc="268439909" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="226" pc="268439930" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="227" pc="268439937" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="228" pc="268439983" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="229" pc="268440102" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="230" pc="268440151" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="232" pc="268440227" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry filename="UkGridRefUtils.mc" lineNum="238" pc="268440257" symbol="Marc"/>
+<entry filename="UkGridRefUtils.mc" lineNum="242" pc="268440567" symbol="Marc"/>
+<entry filename="UkGridRefUtils.mc" lineNum="247" pc="268440573" symbol="floor"/>
+<entry filename="UkGridRefUtils.mc" lineNum="252" pc="268440588" symbol="abs"/>
+<entry filename="UkGridRefUtils.mc" lineNum="6" pc="268440652" symbol="&lt;init&gt;"/>
+<entry filename="UkGridRefUtils.mc" lineNum="13" pc="268440662" symbol="&lt;init&gt;"/>
+<entry filename="UkGridRefUtils.mc" lineNum="14" pc="268441001" symbol="&lt;init&gt;"/>
+<entry filename="UkGridRefUtils.mc" lineNum="15" pc="268441027" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="5" pc="268441086" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="10" pc="268441073" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388698" symbol="start"/>
@@ -209,6 +212,7 @@
 <entry id="8389755" symbol="HR_ZONE_SPORT_BIKING"/>
 <entry id="8388923" symbol="today"/>
 <entry id="8389368" symbol="&lt;slv&gt;"/>
+<entry id="10" object="true" symbol="UkGridRefUtils"/>
 <entry id="8389719" symbol="round"/>
 <entry id="8389540" symbol="onTextEntered"/>
 <entry id="8389331" symbol="sunday"/>
@@ -235,7 +239,7 @@
 <entry id="8389242" symbol="dataHigh"/>
 <entry id="8389396" symbol="UNIT_STATUTE"/>
 <entry id="8389180" symbol="drawPoint"/>
-<entry field="true" id="22" symbol="alpha"/>
+<entry field="true" id="15" symbol="alpha"/>
 <entry id="8389476" symbol="mDeviceNumber"/>
 <entry id="8389287" symbol="saveProperties"/>
 <entry id="8388987" symbol="vibrate"/>
@@ -402,7 +406,7 @@
 <entry id="8389589" symbol="HTTP_REQUEST_METHOD_PUT"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="8389430" symbol="BIKE_POWER_SENSOR_TYPE_CRANK_TORQUE_FREQUENCY"/>
-<entry id="8388783" method="true" symbol="toString"/>
+<entry id="8388783" symbol="toString"/>
 <entry id="8389305" symbol="lat"/>
 <entry id="8388643" symbol="Sensor"/>
 <entry id="8388950" symbol="SENSOR_BIKESPEED"/>
@@ -418,7 +422,7 @@
 <entry id="8389011" symbol="CLICK_TYPE_TAP"/>
 <entry id="8389146" symbol="sleepTime"/>
 <entry id="8389138" symbol="label"/>
-<entry id="16" object="true" symbol="OSGridRefWidgetView"/>
+<entry id="9" object="true" symbol="OSGridRefWidgetView"/>
 <entry id="8388953" symbol="SENSOR_FOOTPOD"/>
 <entry id="8389342" symbol="hours"/>
 <entry id="8389614" symbol="LAYOUT_HALIGN_START"/>
@@ -460,7 +464,7 @@
 <entry id="8389284" symbol="deleteProperty"/>
 <entry id="8388723" symbol="timeZoneOffset"/>
 <entry id="8389225" symbol="MSG_CODE_CHANNEL_ID_NOT_SET"/>
-<entry field="true" id="29" symbol="gridref"/>
+<entry field="true" id="28" symbol="gridref"/>
 <entry id="8388613" symbol="Toybox_System"/>
 <entry id="8388878" symbol="Symbols"/>
 <entry id="8388727" symbol="totalMemory"/>
@@ -612,13 +616,12 @@
 <entry id="8388790" symbol="hasKey"/>
 <entry id="8389283" symbol="setProperty"/>
 <entry id="8389758" symbol="getCurrentSport"/>
-<entry id="11" method="true" symbol="isValidUKLocation"/>
-<entry field="true" id="28" symbol="AppName"/>
+<entry field="true" id="27" symbol="AppName"/>
 <entry id="8389172" symbol="TEXT_JUSTIFY_RIGHT"/>
 <entry id="8389343" symbol="minutes"/>
 <entry id="8389254" symbol="getDeviceConfig"/>
 <entry id="8389113" symbol="getCoordinates"/>
-<entry field="true" id="19" symbol="easting"/>
+<entry field="true" id="12" symbol="easting"/>
 <entry id="8388880" symbol="addLap"/>
 <entry id="8389455" symbol="WEIGHT_SCALE_STATUS_DISABLED"/>
 <entry id="8388935" symbol="duration"/>
@@ -673,7 +676,6 @@
 <entry id="8388890" symbol="sport"/>
 <entry id="8389558" symbol="KEY_START"/>
 <entry id="8389163" symbol="COLOR_ORANGE"/>
-<entry id="8" object="true" symbol="OsGridRefUtils"/>
 <entry id="8389705" symbol="mMin"/>
 <entry id="8389491" symbol="getCapabilities"/>
 <entry id="8388914" symbol="moveBarLevel"/>
@@ -709,7 +711,7 @@
 <entry id="8388670" symbol="testShiftL"/>
 <entry id="8389672" symbol="screenHeight"/>
 <entry id="8388884" symbol="GeometryIterator"/>
-<entry field="true" id="24" symbol="rad2deg"/>
+<entry field="true" id="17" symbol="rad2deg"/>
 <entry id="8389188" symbol="fillRectangle"/>
 <entry id="8389426" symbol="BIKE_POWER_SENSOR_TYPE_NONE"/>
 <entry id="8389038" symbol="NUMBER_PICKER_HEIGHT"/>
@@ -738,10 +740,10 @@
 <entry id="8389108" symbol="onResponse"/>
 <entry id="8389321" symbol="march"/>
 <entry id="8388976" symbol="TONE_LAP"/>
-<entry field="true" id="27" symbol="LauncherIcon"/>
+<entry field="true" id="26" symbol="LauncherIcon"/>
 <entry id="8389539" symbol="mInitialText"/>
 <entry id="8389387" symbol="FONT_NUMBER_HOT"/>
-<entry id="31" method="true" symbol="render_accuracy_screen"/>
+<entry id="30" method="true" symbol="render_accuracy_screen"/>
 <entry id="8389434" symbol="CalculatedTorque"/>
 <entry id="8389337" symbol="saturday"/>
 <entry id="8389504" symbol="crankCadence"/>
@@ -759,8 +761,8 @@
 <entry id="8389704" symbol="mMax"/>
 <entry id="8389597" symbol="scheduleEvent"/>
 <entry id="8388646" symbol="Timer"/>
-<entry id="14" method="true" symbol="Marc"/>
-<entry id="9" method="true" symbol="toGridRef"/>
+<entry id="23" method="true" symbol="Marc"/>
+<entry id="19" method="true" symbol="toGridRef"/>
 <entry id="8388853" symbol="SUB_SPORT_TRAIL"/>
 <entry id="8389683" symbol="onSettingsChanged"/>
 <entry id="8389286" symbol="loadProperties"/>
@@ -804,11 +806,11 @@
 <entry id="8389227" symbol="MSG_CODE_INVALID_MESSAGE"/>
 <entry id="8389083" symbol="onPreviousMode"/>
 <entry id="8389152" symbol="FONT_XTINY"/>
-<entry id="10" method="true" symbol="WSG84_to_OSGB36"/>
+<entry id="20" method="true" symbol="WSG84_to_OSGB36"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389732" symbol="cornerRadius"/>
 <entry id="8389468" symbol="DEVICE_TYPE_GEOCACHE"/>
-<entry id="15" object="true" symbol="OSGridRefWidget"/>
+<entry id="8" object="true" symbol="OSGridRefWidget"/>
 <entry id="8388971" symbol="TONE_ALERT_LO"/>
 <entry id="8389733" symbol="mXOffset"/>
 <entry id="8388915" symbol="isSleepMode"/>
@@ -820,7 +822,7 @@
 <entry id="8388885" symbol="getGeometry"/>
 <entry id="8389335" symbol="thursday"/>
 <entry id="8389443" symbol="WEIGHT_SCALE_GENDER_MALE"/>
-<entry field="true" id="20" symbol="northing"/>
+<entry field="true" id="13" symbol="northing"/>
 <entry id="8388925" symbol="monthHash"/>
 <entry id="8389435" symbol="CalculatedWheelDistance"/>
 <entry id="8389708" symbol="mCount"/>
@@ -852,7 +854,7 @@
 <entry id="8389209" symbol="MSG_ID_RESET_SYSTEM"/>
 <entry id="8388854" symbol="SUB_SPORT_TRACK"/>
 <entry id="8389285" symbol="clearProperties"/>
-<entry id="12" method="true" symbol="transform_datum"/>
+<entry id="21" method="true" symbol="transform_datum"/>
 <entry id="8389537" symbol="TextPicker"/>
 <entry id="8389506" symbol="age"/>
 <entry id="8389122" symbol="onLayout"/>
@@ -867,7 +869,7 @@
 <entry id="8389649" symbol="activityTrackingOn"/>
 <entry id="8389154" symbol="FONT_SMALL"/>
 <entry id="8388732" symbol="elapsedTime"/>
-<entry id="30" method="true" symbol="onLocation"/>
+<entry id="29" method="true" symbol="onLocation"/>
 <entry id="8389233" symbol="ChannelAssignment"/>
 <entry id="8388660" symbol="testFetchRegister"/>
 <entry id="8389026" symbol="requestUpdate"/>
@@ -966,7 +968,7 @@
 <entry id="8389743" symbol="backgroundColor"/>
 <entry id="8389347" symbol="color"/>
 <entry id="8389771" symbol="SWIM_STROKE_MIXED"/>
-<entry field="true" id="23" symbol="deg2rad"/>
+<entry field="true" id="16" symbol="deg2rad"/>
 <entry id="8389328" symbol="october"/>
 <entry id="8389453" symbol="WEIGHT_SCALE_ACTIVITY_LEVEL_RESERVED"/>
 <entry id="8388784" symbol="mLow"/>
@@ -983,6 +985,7 @@
 <entry id="8388679" symbol="testObjectLock"/>
 <entry id="8389119" symbol="getDirection"/>
 <entry id="8389246" symbol="transmissionType"/>
+<entry id="18" method="true" symbol="getGR"/>
 <entry id="8389043" symbol="ProgressBar"/>
 <entry id="8389459" symbol="WEIGHT_SCALE_STATUS_RECEIVING"/>
 <entry id="8388819" symbol="makeImageRequest"/>
@@ -1063,10 +1066,10 @@
 <entry id="8388870" symbol="SUB_SPORT_STRENGTH_TRAINING"/>
 <entry id="8388938" symbol="month"/>
 <entry id="8388966" symbol="TONE_KEY"/>
-<entry id="13" method="true" symbol="OSBG36_latlon_to_numeric_gridref"/>
+<entry id="22" method="true" symbol="OSBG36_latlon_to_numeric_gridref"/>
 <entry id="8388911" symbol="distance"/>
 <entry id="8389592" symbol="REQUEST_CONTENT_TYPE_URL_ENCODED"/>
-<entry id="26" module="true" symbol="Layouts"/>
+<entry id="25" module="true" symbol="Layouts"/>
 <entry id="8388841" symbol="SPORT_WALKING"/>
 <entry id="8389151" symbol="birthYear"/>
 <entry id="8389666" symbol="BUTTON_INPUT_SELECT"/>
@@ -1108,9 +1111,8 @@
 <entry id="8388949" symbol="divide"/>
 <entry id="8389463" symbol="WeightScaleUserProfile"/>
 <entry id="8389125" symbol="onHide"/>
-<entry field="true" id="18" symbol="valid"/>
+<entry field="true" id="11" symbol="valid"/>
 <entry id="8389764" symbol="points"/>
-<entry field="true" id="17" symbol="foreign"/>
 <entry id="8388820" symbol="MailboxIterator"/>
 <entry id="8388843" symbol="SPORT_ALPINE_SKIING"/>
 <entry id="8389551" symbol="PRESS_TYPE_UP"/>
@@ -1188,7 +1190,7 @@
 <entry id="8389617" symbol="Picker"/>
 <entry id="8389063" symbol="identifier"/>
 <entry id="8388997" symbol="KEY_MENU"/>
-<entry field="true" id="21" symbol="precision"/>
+<entry field="true" id="14" symbol="precision"/>
 <entry id="8388695" symbol="count2"/>
 <entry id="8388694" symbol="count1"/>
 <entry id="8389519" symbol="torque"/>
@@ -1213,7 +1215,7 @@
 <entry id="8388941" symbol="mDateTime"/>
 <entry id="8388895" symbol="acos"/>
 <entry id="8389217" symbol="MSG_CODE_EVENT_RX_FAIL"/>
-<entry id="25" module="true" symbol="Menus"/>
+<entry id="24" module="true" symbol="Menus"/>
 <entry id="8388682" symbol="testNaN"/>
 <entry id="8389550" symbol="PRESS_TYPE_DOWN"/>
 <entry id="8388960" symbol="heartRate"/>
@@ -1283,7 +1285,7 @@
 <entry id="8389220" symbol="MSG_CODE_EVENT_TRANSFER_TX_COMPLETED"/>
 <entry id="8389477" symbol="mDeviceType"/>
 <entry id="8389753" symbol="HR_ZONE_SPORT_GENERIC"/>
-<entry id="32" method="true" symbol="create_gridref_util"/>
+<entry id="31" method="true" symbol="create_gridref_util"/>
 <entry id="8389100" symbol="onRelease"/>
 <entry id="8388998" symbol="KEY_DOWN"/>
 <entry id="8388995" symbol="KEY_ESC"/>
@@ -1347,143 +1349,90 @@
 <entry id="8389044" symbol="SLIDE_IMMEDIATE"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435701" name="text_grid_ref" stackId="5" startPc="268435564"/>
-<entry endPc="268435701" name="numeric_grid_ref" stackId="4" startPc="268435564"/>
-<entry endPc="268436190" name="format_string" stackId="13" startPc="268436120"/>
-<entry endPc="268436208" name="index" stackId="12" startPc="268435813"/>
-<entry endPc="268436208" name="secondLetter" stackId="11" startPc="268435813"/>
-<entry endPc="268436208" name="hundredkmE" stackId="8" startPc="268435813"/>
-<entry endPc="268436208" name="firstLetter" stackId="10" startPc="268435813"/>
-<entry endPc="268436208" name="hundredkmN" stackId="9" startPc="268435813"/>
-<entry endPc="268436293" name="t" stackId="5" startPc="268435753"/>
-<entry endPc="268436293" name="e" stackId="6" startPc="268435753"/>
-<entry endPc="268436293" name="n" stackId="7" startPc="268435753"/>
-<entry endPc="268436378" name="OSGB_ECCENTRIC" stackId="6" startPc="268436296"/>
-<entry endPc="268436378" name="OSGB_AXIS" stackId="5" startPc="268436296"/>
-<entry endPc="268436378" name="phip" stackId="7" startPc="268436296"/>
-<entry endPc="268436378" name="WGS84_ECCENTRIC" stackId="4" startPc="268436296"/>
-<entry endPc="268436378" name="WGS84_AXIS" stackId="3" startPc="268436296"/>
-<entry endPc="268436378" name="lambdap" stackId="8" startPc="268436296"/>
-<entry endPc="268436378" name="OSGB36_coords" stackId="9" startPc="268436296"/>
-<entry endPc="268437231" name="zr" stackId="12" startPc="268436488"/>
-<entry endPc="268437231" name="zp" stackId="9" startPc="268436488"/>
-<entry endPc="268437231" name="lat0" stackId="28" startPc="268436488"/>
-<entry endPc="268437231" name="xrot" stackId="20" startPc="268436488"/>
-<entry endPc="268437231" name="z" stackId="19" startPc="268436488"/>
-<entry endPc="268437231" name="yrot" stackId="21" startPc="268436488"/>
-<entry endPc="268437231" name="y" stackId="18" startPc="268436488"/>
-<entry endPc="268437231" name="xr" stackId="10" startPc="268436488"/>
-<entry endPc="268437231" name="x" stackId="17" startPc="268436488"/>
-<entry endPc="268437231" name="xp" stackId="7" startPc="268436488"/>
-<entry endPc="268437231" name="v" stackId="16" startPc="268436488"/>
-<entry endPc="268437231" name="s" stackId="13" startPc="268436488"/>
-<entry endPc="268437231" name="zrot" stackId="22" startPc="268436488"/>
-<entry endPc="268437231" name="p" stackId="26" startPc="268436488"/>
-<entry endPc="268437231" name="errvalue" stackId="27" startPc="268436488"/>
-<entry endPc="268437231" name="yr" stackId="11" startPc="268436488"/>
-<entry endPc="268437231" name="h" stackId="14" startPc="268436488"/>
-<entry endPc="268437231" name="hz" stackId="25" startPc="268436488"/>
-<entry endPc="268437231" name="yp" stackId="8" startPc="268436488"/>
-<entry endPc="268437231" name="hy" stackId="24" startPc="268436488"/>
-<entry endPc="268437231" name="hx" stackId="23" startPc="268436488"/>
-<entry endPc="268437231" name="sf" stackId="15" startPc="268436488"/>
-<entry endPc="268438156" name="IV" stackId="21" startPc="268437234"/>
-<entry endPc="268438156" name="rho" stackId="18" startPc="268437234"/>
-<entry endPc="268438156" name="phi" stackId="4" startPc="268437234"/>
-<entry endPc="268438156" name="slat2" stackId="16" startPc="268437234"/>
-<entry endPc="268438156" name="V" stackId="24" startPc="268437234"/>
-<entry endPc="268438156" name="eta2" stackId="19" startPc="268437234"/>
-<entry endPc="268438156" name="clat5" stackId="25" startPc="268437234"/>
-<entry endPc="268438156" name="lon" stackId="3" startPc="268437234"/>
-<entry endPc="268438156" name="clat3" stackId="22" startPc="268437234"/>
-<entry endPc="268438156" name="II" stackId="32" startPc="268437234"/>
-<entry endPc="268438156" name="lat" stackId="2" startPc="268437234"/>
-<entry endPc="268438156" name="e2" stackId="11" startPc="268437234"/>
-<entry endPc="268438156" name="M" stackId="30" startPc="268437234"/>
-<entry endPc="268438156" name="e0" stackId="8" startPc="268437234"/>
-<entry endPc="268438156" name="af0" stackId="14" startPc="268437234"/>
-<entry endPc="268438156" name="east" stackId="28" startPc="268437234"/>
-<entry endPc="268438156" name="n0" stackId="9" startPc="268437234"/>
-<entry endPc="268438156" name="I" stackId="31" startPc="268437234"/>
-<entry endPc="268438156" name="lam" stackId="5" startPc="268437234"/>
-<entry endPc="268438156" name="p" stackId="20" startPc="268437234"/>
-<entry endPc="268438156" name="n" stackId="29" startPc="268437234"/>
-<entry endPc="268438156" name="III" stackId="33" startPc="268437234"/>
-<entry endPc="268438156" name="tlat4" stackId="26" startPc="268437234"/>
-<entry endPc="268438156" name="f0" stackId="10" startPc="268437234"/>
-<entry endPc="268438156" name="IIIA" stackId="34" startPc="268437234"/>
-<entry endPc="268438156" name="VI" stackId="27" startPc="268437234"/>
-<entry endPc="268438156" name="north" stackId="35" startPc="268437234"/>
-<entry endPc="268438156" name="tlat2" stackId="23" startPc="268437234"/>
-<entry endPc="268438156" name="lam0" stackId="12" startPc="268437234"/>
-<entry endPc="268438156" name="b" stackId="7" startPc="268437234"/>
-<entry endPc="268438156" name="bf0" stackId="15" startPc="268437234"/>
-<entry endPc="268438156" name="a" stackId="6" startPc="268437234"/>
-<entry endPc="268438156" name="phi0" stackId="13" startPc="268437234"/>
-<entry endPc="268438156" name="nu" stackId="17" startPc="268437234"/>
-<entry endPc="268438472" name="Marc" stackId="5" startPc="268438159"/>
-<entry endPc="268440124" name="height_tenth" stackId="2" startPc="268438721"/>
-<entry endPc="268440124" name="location" stackId="3" startPc="268438721"/>
-<entry endPc="268440311" name="accuracy" stackId="2" startPc="268440127"/>
-<entry endPc="268440444" name="degrees" stackId="4" startPc="268440334"/>
-<entry endPc="268440488" name="location" stackId="3" startPc="268440314"/>
+<entry endPc="268437064" name="height_tenth" stackId="2" startPc="268435661"/>
+<entry endPc="268437064" name="location" stackId="3" startPc="268435661"/>
+<entry endPc="268437251" name="accuracy" stackId="2" startPc="268437067"/>
+<entry endPc="268437384" name="degrees" stackId="4" startPc="268437274"/>
+<entry endPc="268437428" name="location" stackId="3" startPc="268437254"/>
+<entry endPc="268437884" name="text_grid_ref" stackId="5" startPc="268437775"/>
+<entry endPc="268437884" name="numeric_grid_ref" stackId="4" startPc="268437687"/>
+<entry endPc="268438409" name="precision_modifier" stackId="14" startPc="268438251"/>
+<entry endPc="268438409" name="format_string" stackId="13" startPc="268438251"/>
+<entry endPc="268438416" name="index" stackId="12" startPc="268438018"/>
+<entry endPc="268438416" name="secondLetter" stackId="11" startPc="268438018"/>
+<entry endPc="268438416" name="hundredkmE" stackId="8" startPc="268438018"/>
+<entry endPc="268438416" name="firstLetter" stackId="10" startPc="268438018"/>
+<entry endPc="268438416" name="hundredkmN" stackId="9" startPc="268438018"/>
+<entry endPc="268438498" name="t" stackId="5" startPc="268437961"/>
+<entry endPc="268438498" name="e" stackId="6" startPc="268437961"/>
+<entry endPc="268438498" name="n" stackId="7" startPc="268437961"/>
+<entry endPc="268438583" name="OSGB_ECCENTRIC" stackId="6" startPc="268438501"/>
+<entry endPc="268438583" name="OSGB_AXIS" stackId="5" startPc="268438501"/>
+<entry endPc="268438583" name="phip" stackId="7" startPc="268438501"/>
+<entry endPc="268438583" name="WGS84_ECCENTRIC" stackId="4" startPc="268438501"/>
+<entry endPc="268438583" name="WGS84_AXIS" stackId="3" startPc="268438501"/>
+<entry endPc="268438583" name="lambdap" stackId="8" startPc="268438501"/>
+<entry endPc="268438583" name="OSGB36_coords" stackId="9" startPc="268438501"/>
+<entry endPc="268439329" name="zr" stackId="12" startPc="268438586"/>
+<entry endPc="268439329" name="zp" stackId="9" startPc="268438586"/>
+<entry endPc="268439329" name="lat0" stackId="28" startPc="268438586"/>
+<entry endPc="268439329" name="xrot" stackId="20" startPc="268438586"/>
+<entry endPc="268439329" name="z" stackId="19" startPc="268438586"/>
+<entry endPc="268439329" name="yrot" stackId="21" startPc="268438586"/>
+<entry endPc="268439329" name="y" stackId="18" startPc="268438586"/>
+<entry endPc="268439329" name="xr" stackId="10" startPc="268438586"/>
+<entry endPc="268439329" name="x" stackId="17" startPc="268438586"/>
+<entry endPc="268439329" name="xp" stackId="7" startPc="268438586"/>
+<entry endPc="268439329" name="v" stackId="16" startPc="268438586"/>
+<entry endPc="268439329" name="s" stackId="13" startPc="268438586"/>
+<entry endPc="268439329" name="zrot" stackId="22" startPc="268438586"/>
+<entry endPc="268439329" name="p" stackId="26" startPc="268438586"/>
+<entry endPc="268439329" name="errvalue" stackId="27" startPc="268438586"/>
+<entry endPc="268439329" name="yr" stackId="11" startPc="268438586"/>
+<entry endPc="268439329" name="h" stackId="14" startPc="268438586"/>
+<entry endPc="268439329" name="hz" stackId="25" startPc="268438586"/>
+<entry endPc="268439329" name="yp" stackId="8" startPc="268438586"/>
+<entry endPc="268439329" name="hy" stackId="24" startPc="268438586"/>
+<entry endPc="268439329" name="hx" stackId="23" startPc="268438586"/>
+<entry endPc="268439329" name="sf" stackId="15" startPc="268438586"/>
+<entry endPc="268440254" name="IV" stackId="21" startPc="268439332"/>
+<entry endPc="268440254" name="rho" stackId="18" startPc="268439332"/>
+<entry endPc="268440254" name="phi" stackId="4" startPc="268439332"/>
+<entry endPc="268440254" name="slat2" stackId="16" startPc="268439332"/>
+<entry endPc="268440254" name="V" stackId="24" startPc="268439332"/>
+<entry endPc="268440254" name="eta2" stackId="19" startPc="268439332"/>
+<entry endPc="268440254" name="clat5" stackId="25" startPc="268439332"/>
+<entry endPc="268440254" name="lon" stackId="3" startPc="268439332"/>
+<entry endPc="268440254" name="clat3" stackId="22" startPc="268439332"/>
+<entry endPc="268440254" name="II" stackId="32" startPc="268439332"/>
+<entry endPc="268440254" name="lat" stackId="2" startPc="268439332"/>
+<entry endPc="268440254" name="e2" stackId="11" startPc="268439332"/>
+<entry endPc="268440254" name="M" stackId="30" startPc="268439332"/>
+<entry endPc="268440254" name="e0" stackId="8" startPc="268439332"/>
+<entry endPc="268440254" name="af0" stackId="14" startPc="268439332"/>
+<entry endPc="268440254" name="east" stackId="28" startPc="268439332"/>
+<entry endPc="268440254" name="n0" stackId="9" startPc="268439332"/>
+<entry endPc="268440254" name="I" stackId="31" startPc="268439332"/>
+<entry endPc="268440254" name="lam" stackId="5" startPc="268439332"/>
+<entry endPc="268440254" name="p" stackId="20" startPc="268439332"/>
+<entry endPc="268440254" name="n" stackId="29" startPc="268439332"/>
+<entry endPc="268440254" name="III" stackId="33" startPc="268439332"/>
+<entry endPc="268440254" name="tlat4" stackId="26" startPc="268439332"/>
+<entry endPc="268440254" name="f0" stackId="10" startPc="268439332"/>
+<entry endPc="268440254" name="IIIA" stackId="34" startPc="268439332"/>
+<entry endPc="268440254" name="VI" stackId="27" startPc="268439332"/>
+<entry endPc="268440254" name="north" stackId="35" startPc="268439332"/>
+<entry endPc="268440254" name="tlat2" stackId="23" startPc="268439332"/>
+<entry endPc="268440254" name="lam0" stackId="12" startPc="268439332"/>
+<entry endPc="268440254" name="b" stackId="7" startPc="268439332"/>
+<entry endPc="268440254" name="bf0" stackId="15" startPc="268439332"/>
+<entry endPc="268440254" name="a" stackId="6" startPc="268439332"/>
+<entry endPc="268440254" name="phi0" stackId="13" startPc="268439332"/>
+<entry endPc="268440254" name="nu" stackId="17" startPc="268439332"/>
+<entry endPc="268440570" name="Marc" stackId="5" startPc="268440257"/>
 </localVars>
 <annotations/>
 <functions>
-<functionEntry name="initialize" parent="OsGridRefUtils">
-<param id="lat"/>
-<param id="lon"/>
-<param id="p"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="toString" parent="OsGridRefUtils">
-<documentation/>
-</functionEntry>
-<functionEntry name="toGridRef">
-<param id="east"/>
-<param id="north"/>
-<param id="precision"/>
-<param id="valid"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="WSG84_to_OSGB36">
-<param id="lat"/>
-<param id="lon"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="isValidUKLocation">
-<param id="lat"/>
-<param id="lon"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="transform_datum">
-<param id="lat"/>
-<param id="lon"/>
-<param id="a"/>
-<param id="e"/>
-<param id="a2"/>
-<param id="e2"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="OSBG36_latlon_to_numeric_gridref">
-<param id="OSGB36_coords"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="Marc">
-<param id="bf0"/>
-<param id="n"/>
-<param id="phi0"/>
-<param id="phi"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="floor">
-<param id="x"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="abs">
-<param id="n"/>
-<documentation/>
-</functionEntry>
 <functionEntry name="onStart" parent="OSGridRefWidget">
 <documentation/>
 </functionEntry>
@@ -1511,6 +1460,55 @@
 <functionEntry name="create_gridref_util" parent="OSGridRefWidgetView">
 <param id="info"/>
 <param id="precision"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="UkGridRefUtils">
+<param id="lat"/>
+<param id="lon"/>
+<param id="p"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getGR" parent="UkGridRefUtils">
+<documentation/>
+</functionEntry>
+<functionEntry name="toGridRef" parent="UkGridRefUtils">
+<param id="east"/>
+<param id="north"/>
+<param id="precision"/>
+<param id="valid"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="WSG84_to_OSGB36" parent="UkGridRefUtils">
+<param id="lat"/>
+<param id="lon"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="transform_datum" parent="UkGridRefUtils">
+<param id="lat"/>
+<param id="lon"/>
+<param id="a"/>
+<param id="e"/>
+<param id="a2"/>
+<param id="e2"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="OSBG36_latlon_to_numeric_gridref" parent="UkGridRefUtils">
+<param id="OSGB36_coords"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="Marc" parent="UkGridRefUtils">
+<param id="bf0"/>
+<param id="n"/>
+<param id="phi0"/>
+<param id="phi"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="floor" parent="UkGridRefUtils">
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="abs" parent="UkGridRefUtils">
+<param id="n"/>
 <documentation/>
 </functionEntry>
 </functions>
