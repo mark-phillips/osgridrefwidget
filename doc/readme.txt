@@ -1,0 +1,1 @@
+V1.3 - Add support for fr735xt, d2bravo_titanium, and vivoactive_hr
