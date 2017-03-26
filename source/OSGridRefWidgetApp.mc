@@ -9,17 +9,27 @@ using Toybox.Application as App;
 //! this is the primary start point for a ConnectIQ application
 class OSGridRefWidget extends App.AppBase
 {
-    function onStart()
+    var view = null;
+
+    function onSettingsChanged() {
+      if (view != null) {
+        view.updateSettings = true;
+        Toybox.WatchUi.requestUpdate();
+
+      }
+    }
+    function onStart(state)
     {
         return false;
     }
 
     function getInitialView()
     {
-        return [new OSGridRefWidgetView()];
+        view = new OSGridRefWidgetView() ;
+        return [view];
     }
 
-    function onStop()
+    function onStop(state)
     {
         return false;
     }

@@ -1,2 +1,21 @@
 <resources>
+    <properties>
+        <property id="COORD_TYPE" type="number">1</property>
+    </properties>
+
+    <strings>
+       <string id="title_coord">Grid Ref Type:</string>
+       <string id="opt_os">UK OS Grid</string>
+       <string id="opt_irish">Irish OSI Grid</string>
+    </strings>
+    
+    <settings>
+        <setting propertyKey="@Properties.COORD_TYPE" title="@Strings.title_coord">
+            <settingConfig type="list">
+                <listEntry value="1">@Rez.Strings.opt_os</listEntry>
+                <listEntry value="2">@Rez.Strings.opt_irish</listEntry>
+            </settingConfig>
+        </setting>
+    </settings>
+      
 </resources>
