@@ -7,6 +7,7 @@
        <string id="title_coord">Grid Ref Type:</string>
        <string id="opt_os">UK OS Grid</string>
        <string id="opt_irish">Irish OSI Grid</string>
+       <string id="opt_mgrs">MGRS</string>
     </strings>
     
     <settings>
@@ -14,6 +15,7 @@
             <settingConfig type="list">
                 <listEntry value="1">@Rez.Strings.opt_os</listEntry>
                 <listEntry value="2">@Rez.Strings.opt_irish</listEntry>
+                <listEntry value="3">@Rez.Strings.opt_mgrs</listEntry>
             </settingConfig>
         </setting>
     </settings>

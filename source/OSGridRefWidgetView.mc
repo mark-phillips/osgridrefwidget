@@ -21,6 +21,8 @@ class OSGridRefWidgetView extends Ui.View
     var accuracy_colour = Gfx.COLOR_WHITE;
     var updateSettings = false;
     var OSGB = 1;
+    var OSI = 2;
+    var MGRS = 3;
     var grid_type = OSGB;
     var grid_prefix = "OS";
 
@@ -29,7 +31,7 @@ class OSGridRefWidgetView extends Ui.View
     {
         Ui.View.initialize();
         RetrieveSettings();
-        gridref = create_gridref(null, null, 10 );
+        gridref = create_osgb_osi_gridref(null, null, 10 );
         //! Register an interest in location update events
         Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onLocation));
 
@@ -46,6 +48,13 @@ class OSGridRefWidgetView extends Ui.View
 
     function RetrieveSettings() {
         grid_type = Application.getApp().getProperty("COORD_TYPE");
+        if (grid_type == OSGB) {
+            grid_prefix = "OS";
+        } else if (grid_type == OSI ){
+            grid_prefix = "OSI";
+        } else {
+            grid_prefix = "MGRS";
+        }
         if (debug) { System.println("Retrieve" + grid_type); }
     }
     //! Handle the update event
@@ -118,29 +127,40 @@ class OSGridRefWidgetView extends Ui.View
 
     function create_gridref_util(info,precision)
     {
-        var location = null;
-        if (info.position has :toDegrees )
-        {
-            var degrees = info.position.toDegrees();
-            if (debug) { System.println("position: " + degrees); }
-            if (degrees != null and degrees[0] != null and  degrees.size() == 2)
+        var grid_ref = null;
+        if (grid_type == MGRS) {
+            grid_ref = new OSGridRef(null,null,10);
+            var mgrs_gridref = info.position.toGeoString(Toybox.Position.GEO_MGRS);
+            grid_ref.valid = true;
+            grid_ref.text = mgrs_gridref.substring( 0, 6);
+            grid_ref.easting = mgrs_gridref.substring( 7, 12);
+            grid_ref.northing = mgrs_gridref.substring( 12, 17);
+
+            if (debug) { System.println("mgrs" + mgrs_gridref); }
+        }
+        else {
+
+            if (info.position has :toDegrees )
             {
-                location =  create_gridref(degrees[0], degrees[1], precision );
+                var degrees = info.position.toDegrees();
+                if (debug) { System.println("position: " + degrees); }
+                if (degrees != null and degrees[0] != null and  degrees.size() == 2)
+                {
+                    grid_ref =  create_osgb_osi_gridref(degrees[0], degrees[1], precision );
+                }
             }
         }
-        if (location == null) {
-            location =  create_gridref(null,null,6);
+        if (grid_ref == null) {
+            grid_ref =  create_osgb_osi_gridref(null,null,6);
         }
-       return location;
+       return grid_ref;
     }
 
-    function create_gridref(lat,lon,precision) {
-        if (debug) { lat =  53.34979538; lon = -6.2602533;}  // Spire of Dublin
+    function create_osgb_osi_gridref(lat,lon,precision) {
+//        if (debug) { lat =  53.34979538; lon = -6.2602533;}  // Spire of Dublin
         if (grid_type == OSGB) {
-            grid_prefix = "OS";
             return new OSGridRef(lat,lon, precision );
         } else {
-            grid_prefix = "OSI";
             return new IrishGridRef(lat,lon, precision );
         }
     }
