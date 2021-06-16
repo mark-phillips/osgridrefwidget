@@ -1,6 +1,6 @@
 project.manifest = manifest.xml
-basedir = "C:\Users\markp\Documents\eclipse-workspaces\garmin"
-commondir = "C:\Users\markp\Documents\eclipse-workspaces\garmin\GridRefCommonCode\source"
-ukdir = "C:\Users\markp\Documents\eclipse-workspaces\garmin\UkGridrefShared\source"
-irdir = "C:\Users\markp\Documents\eclipse-workspaces\garmin\IrishGridRefShared\source"
+basedir = ".."
+commondir = "..\GridRefCommonCode\source"
+ukdir = "..\UkGridrefShared\source"
+irdir = "..\IrishGridRefShared\source"
 base.sourcePath = $(base.sourcePath);$(irdir);$(ukdir);$(commondir)
