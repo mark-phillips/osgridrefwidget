@@ -24,7 +24,7 @@ class OSGridRefWidget extends App.AppBase
     }
     function onStart(state)
     {
-        return false;
+        return ;
     }
 
     function getInitialView()
@@ -33,8 +33,8 @@ class OSGridRefWidget extends App.AppBase
         return [view];
     }
 
-    function onStop(state)
+    function onStop(state) 
     {
-        return false;
+        return ;
     }
 }

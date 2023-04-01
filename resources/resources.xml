@@ -13,9 +13,9 @@
     <settings>
         <setting propertyKey="@Properties.COORD_TYPE" title="@Strings.title_coord">
             <settingConfig type="list">
-                <listEntry value="1">@Rez.Strings.opt_os</listEntry>
-                <listEntry value="2">@Rez.Strings.opt_irish</listEntry>
-                <listEntry value="3">@Rez.Strings.opt_mgrs</listEntry>
+                <listEntry value="1">@Strings.opt_os</listEntry>
+                <listEntry value="2">@Strings.opt_irish</listEntry>
+                <listEntry value="3">@Strings.opt_mgrs</listEntry>
             </settingConfig>
         </setting>
     </settings>

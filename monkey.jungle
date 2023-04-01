@@ -4,3 +4,4 @@ commondir = "..\GridRefCommonCode\source"
 ukdir = "..\UkGridrefShared\source"
 irdir = "..\IrishGridRefShared\source"
 base.sourcePath = $(base.sourcePath);$(irdir);$(ukdir);$(commondir)
+project.typecheck = 1

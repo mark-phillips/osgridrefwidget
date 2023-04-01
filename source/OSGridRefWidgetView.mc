@@ -15,7 +15,7 @@ using Toybox.Position;
 class OSGridRefWidgetView extends Ui.View
 {
 
-    var gridref;
+    var gridref as GridRef;
     var debug=false;
     var accuracy = "GPS: No fix";
     var accuracy_colour = Gfx.COLOR_WHITE;
@@ -38,7 +38,7 @@ class OSGridRefWidgetView extends Ui.View
     }
 
     //! Handle location update events by updating position
-    function onLocation(info)
+    function onLocation(info as Toybox.Position.Info) as Void
     {
         if (debug) { System.println("location"); }
         gridref = create_gridref_util(info,10);
@@ -77,8 +77,8 @@ class OSGridRefWidgetView extends Ui.View
         var location ="????";
 
         dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
-        dc.fillRectangle(0, height_tenth*2 + dc.getFontDescent(Gfx.FONT_MEDIUM ), dc.getWidth() , 1);
-        dc.fillRectangle(0, 2+height_tenth*2 + dc.getFontDescent(Gfx.FONT_MEDIUM ), dc.getWidth() , 1);
+        dc.fillRectangle(0, height_tenth*2 + Graphics.getFontDescent(Gfx.FONT_MEDIUM ), dc.getWidth() , 1);
+        dc.fillRectangle(0, 2+height_tenth*2 + Graphics.getFontDescent(Gfx.FONT_MEDIUM ), dc.getWidth() , 1);
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
 
         if (gridref.valid == true ) {
